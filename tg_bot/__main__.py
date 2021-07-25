@@ -18,14 +18,21 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}👋,I'm ADBZ Üç Bey {}! if you have any questions about how to use me please click /help... 
+<b>Hi {}👋,</b>
+<i>Welcome to {}.
 
-I'm a ADBZ group manager bot maintained by  [My Sultan](tg://user?id={}).
+I'm a ADBZ group manager bot maintained by  [Admins of ADBZ](tg://user?id={}).If you need to add me to your Group just add and Click /help.
+ave any questions about how to use me please click /help... 
+If any Doubts about me Contact: @adbzmelikshahbot
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+[Click Here](https://heroku.com/deploy?template=https://github.com/AghinKhalidCP/Marie-2.0-English),
+If you wanna Bot Like me.....</i>
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/AghinKhalidCP/Marie-2.0-English),
-you can create clone same like me..
+<b>Join : 
+Main Group : @ADBZ_Movies_Series
+Turkish Series : @Turkish_Islamic_Media
+C-Drama : t.me/joinchat/UmGZbCq1AEZiN2Fl</b>
+
 
 For more commands click /help...
 
@@ -50,7 +57,7 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/adbzmelikshahbot) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
