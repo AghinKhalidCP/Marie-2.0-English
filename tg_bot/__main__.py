@@ -21,7 +21,7 @@ PM_START_TEXT = """
 *Hi {}👋,*
 _Welcome to {}.
 
-I'm a ADBZ group manager bot maintained by  [Admins of ADBZ](tg://user?id={}).If you need to add me to your Group just add and Click /help.
+I'm a ADBZ group manager bot maintained by  [Admins of ADBZ](t.me/ADBZ_Admin_bot).If you need to add me to your Group just add and Click /help.
 ave any questions about how to use me please click /help... 
 If any Doubts about me Contact: @adbzmelikshahbot
 
