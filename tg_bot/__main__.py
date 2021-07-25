@@ -18,21 +18,21 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-<b>Hi {}👋,</b>
-<i>Welcome to {}.
+*Hi {}👋,*
+_Welcome to {}.
 
 I'm a ADBZ group manager bot maintained by  [Admins of ADBZ](tg://user?id={}).If you need to add me to your Group just add and Click /help.
 ave any questions about how to use me please click /help... 
 If any Doubts about me Contact: @adbzmelikshahbot
 
-[Click Here](https://heroku.com/deploy?template=https://github.com/AghinKhalidCP/Marie-2.0-English),
-If you wanna Bot Like me.....</i>
+[Click Here](https://github.com/AghinKhalidCP/Marie-2.0-English),
+If you wanna Bot Like me....._
 
-<b>Join : 
-Main Group : @ADBZ_Movies_Series
-Turkish Series : @Turkish_Islamic_Media
-C-Drama : t.me/joinchat/UmGZbCq1AEZiN2Fl</b>
 
+*join:*
+*Main Group : t.me/ADBZ_Movies_Series
+Turkish Series And Movies : t.me/Turkish_Islamic_Media
+C-Drama : t.me/joinchat/UmGZbCq1AEZiN2Fl*
 
 For more commands click /help...
 
