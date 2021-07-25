@@ -21,12 +21,12 @@ PM_START_TEXT = """
 *Hi {}👋,*
 _Welcome to {}.
 
-I'm a ADBZ group manager bot maintained by  [Admins of ADBZ](t.me/ADBZ_Admin_bot).If you need to add me to your Group just add and Click /help.
-ave any questions about how to use me please click /help... 
-If any Doubts about me Contact: @adbzmelikshahbot
+I'm a ADBZ group manager bot maintained by_  [Admins of ADBZ](t.me/ADBZ_Admin_bot)._If you need to add me to your Group just add and Click /help.
+ave any questions about how to use me please click_ /help... 
+*If any Doubts about me Contact:* @adbzmelikshahbot
 
 [Click Here](https://github.com/AghinKhalidCP/Marie-2.0-English),
-If you wanna Bot Like me....._
+_If you wanna Bot Like me....._
 
 
 *join:*
