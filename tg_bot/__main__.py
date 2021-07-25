@@ -25,14 +25,14 @@ I'm a ADBZ group manager bot maintained by_  [Admins of ADBZ](t.me/ADBZ_Admin_bo
 ave any questions about how to use me please click_ /help... 
 *If any Doubts about me Contact:* @adbzmelikshahbot
 
-[Click Here](https://github.com/AghinKhalidCP/Marie-2.0-English),
-_If you wanna Bot Like me....._
+[Click Here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4o1pncG_ZXD3qAVJKDWABNK42cbNiLr1x3Q&usqp=CAU),to make a Bot like me
+
 
 
 *join:*
-*Main Group : t.me/ADBZ_Movies_Series
-Turkish Series And Movies : t.me/Turkish_Islamic_Media
-C-Drama : t.me/joinchat/UmGZbCq1AEZiN2Fl*
+*🔘Main Group : t.me/ADBZ_Movies_Series
+🔘Turkish Series And Movies : t.me/Turkish_Islamic_Media
+🔘C-Drama : t.me/joinchat/UmGZbCq1AEZiN2Fl*
 
 For more commands click /help...
 
